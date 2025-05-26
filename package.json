@@ -1,5 +1,5 @@
 {
-  "name": "vercel-tts-final",
+  "name": "vercel-tts-final-clean",
   "version": "1.0.0",
   "dependencies": {
     "@google-cloud/text-to-speech": "^4.3.0"
